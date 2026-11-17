@@ -1,0 +1,6 @@
+{
+  "name": "KRONTON — Electronics Components, Refurbished Hardware & Buyback",
+  "description": "India's precision marketplace for new electronic components, lab-tested refurbished hardware, curated SMM kits, and direct customer component buyback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
