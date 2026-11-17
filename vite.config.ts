@@ -12,6 +12,7 @@ export default defineConfig(() => {
       // Copies src/assets into dist/ so root-relative URLs like
       // "/src/assets/images/..." (e.g. generate_image output) still resolve
       // in production builds. Do not remove.
+    base:'/KRONTON/ ',
       {
         name: 'copy-unbundled-src-assets',
         apply: 'build',
